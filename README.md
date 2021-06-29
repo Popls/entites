@@ -1,7 +1,7 @@
 
 # Swagger generated API stub
 
-Spring Framework stub
+Spring Framework
 
 
 ## Overview
